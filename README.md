@@ -13,7 +13,7 @@ Please cite our paper if you happen to use our code and/or models:
 
 If you use these models in your research, please cite:
 
-	@article{He2015,
+	@article{RK2015,
 		author = {Ravi Kiran Sarvadevabhatla and Jogendra Kundu and Venkatesh Babu R},
 		title = {Enabling My Robot To Play Pictionary : Recurrent Neural Networks For Sketch Recognition},
 		journal = {arXiv preprint arXiv:1608.03369},
