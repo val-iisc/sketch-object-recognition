@@ -7,5 +7,7 @@ Files involved:
     -> net_u_192_57p3.mat
     -> net_u_128_57p3.mat 
     -> net_u_64_57p3.mat
+
+The .mat files can be downloaded from [here](https://drive.google.com/folderview?id=0B-uAVJ5bK78SRUhydFBlU214Y28&usp=sharing)
     
 -> Sketch-CNN model in lasagne and functions to get Multiscale(5*512) feature is given in sketchcnn_theano.py
