@@ -1,6 +1,6 @@
 train_split_files.txt, val_split_files.txt and test_split_files.txt contain the paths and label ids of augmented sketches used to train validate and test our sketch recognition models
 
-The filepaths correspond to augmented sketch files present at the following location : http://val.serc.iisc.ernet.in/eotd/png-transforms-256x256-250.tar.gz
+The filepaths correspond to augmented sketch files present at the following location : http://f671f998.ap.ngrok.io/png-transforms-256x256-250.tar.gz . For details regarding the augmentations, please view : http://f671f998.ap.ngrok.io/README.transforms.txt
 
 The provided split files are (almost) in Caffe-compatible format (i.e. can be mentioned in Caffe prototxt for training/testing). However, some of the filepaths contain spaces. Such files cannot be properly processed by Caffe. To circumvent this, create a parallel file with softlinks which point to these files, for e.g.
 
